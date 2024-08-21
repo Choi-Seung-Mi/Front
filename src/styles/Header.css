@@ -1,0 +1,83 @@
+.top {
+  width: 1920px;
+  height: 40px;
+  padding: 15px 479px 15px 280px;
+  background-color: #fff;
+}
+
+p1 {
+  width: 113px;
+  height: 19px;
+  margin: 5px 87px 2px 0;
+  object-fit: contain;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3.13;
+  letter-spacing: -0.64px;
+  text-align: left;
+  color: #000;
+}
+
+p2 {
+  width: 42px;
+  height: 24px;
+  margin: 0 40px 0 0;
+  font-family: NotoSansCJKKR;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3.13;
+  letter-spacing: -0.64px;
+  text-align: center;
+  color: #202020;
+}
+
+p3 {
+  width: 56px;
+  height: 24px;
+  margin: 0 40px;
+  font-family: NotoSansCJKKR;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3.13;
+  letter-spacing: -0.64px;
+  text-align: center;
+  color: #202020;
+}
+
+p4 {
+  width: 42px;
+  height: 24px;
+  margin: 0 40px;
+  font-family: NotoSansCJKKR;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3.13;
+  letter-spacing: -0.64px;
+  text-align: center;
+  color: #202020;
+}
+
+p5 {
+  width: 44px;
+  height: 24px;
+  margin: 1px 0 1px 24px;
+  margin-left: 350px;
+  font-family: NotoSansCJKKR;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: center;
+  color: #202020;
+}
